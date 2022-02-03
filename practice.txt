@@ -4,3 +4,6 @@
 2. Create a text file in the folder and commit it;
 3. Create a remote repository on github;
 4. Push the local repository to github;
+5. Create a new branch (develop) and switch to it;
+6. Create a new branch from 'develop' and switch to it;
+7. Add the first line in the text file, commit, and push to remote;
